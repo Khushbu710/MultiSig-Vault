@@ -6,7 +6,11 @@ This project allows multiple wallet owners to collectively manage funds. Transac
 
 ## Live Demo
 
-🔗 Live Application: https://your-site-url.vercel.app
+🔗 Live Application: https://multi-sig-vault-nine.vercel.app/
+
+## Demo
+
+![Demo](./screenshots/demo.gif)
 
 ### Current Deployment Configuration
 
